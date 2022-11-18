@@ -3,7 +3,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: yellow;
   }
 
   .birthday-card {
@@ -330,3 +330,9 @@ body {
     top:30px;
     color: #073b4c;
   }  
+
+  .footer{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+  }

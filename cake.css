@@ -1,0 +1,16 @@
+.body{
+    background-color: black;
+}
+.main{
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+    font-family: cursive;
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
